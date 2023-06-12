@@ -18,3 +18,8 @@ Bizon19's Lua Obfuscator is a Lua Obfuscator that does protecting code with cool
             + uses lua bytecode (luac)
             + broken lbi (lbi is not very good)
             + uncertified
+
+# Credits
+## Rerumu: Rerubi LBI/VM (Not affiliated with me or some sort)
+## Bizon19: Main Developer
+## MierDev: Bytecode seperator, Watermark, and other stuff.
